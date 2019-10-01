@@ -1,7 +1,7 @@
 ---
-name: New idea
+name: Project idea
 about: Suggest an idea for an IATI project
-title: "[IDEA]"
+title: "[PROJECT IDEA]"
 labels: ''
 assignees: ''
 
