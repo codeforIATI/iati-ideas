@@ -2,7 +2,7 @@
 name: Blog post idea
 about: Suggest an idea for a blog post
 title: "[BLOG IDEA]"
-labels: ''
+labels: blog
 assignees: ''
 
 ---
